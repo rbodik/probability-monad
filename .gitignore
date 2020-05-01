@@ -3,3 +3,10 @@ target
 *.class
 .lib
 project/*.jar
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.idea/encodings.xml
+.idea/libraries/sbt__org_scala_lang_scala_library_2_12_10_jar.xml
+.idea/modules.xml
+*.xml
+*.iml
